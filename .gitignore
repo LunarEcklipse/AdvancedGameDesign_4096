@@ -9,7 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+<<<<<<< HEAD
 /.plastic/
+=======
+>>>>>>> 30d73e64d58db68e93c6df26088892e2ba7ae87b
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -71,4 +74,8 @@ crashlytics-build.properties
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
+<<<<<<< HEAD
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+=======
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+>>>>>>> 30d73e64d58db68e93c6df26088892e2ba7ae87b
