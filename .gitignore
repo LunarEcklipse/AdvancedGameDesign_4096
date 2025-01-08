@@ -9,10 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-<<<<<<< HEAD
 /.plastic/
-=======
->>>>>>> 30d73e64d58db68e93c6df26088892e2ba7ae87b
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
